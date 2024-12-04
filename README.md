@@ -1,5 +1,7 @@
 # Product-Campaign-Metrics-Comparing-Marketing-Campaigns-against-Competitors
-![elio-santos-M38gjx6hifY-unsplash](https://github.com/user-attachments/assets/e82aaa24-e7b2-4cf1-821b-960ca045f056)
+![jason-goodman-Oalh2MojUuk-unsplash](https://github.com/user-attachments/assets/0b768a4f-31d2-4bb0-89c3-302545b092e7)
+
+
 ## Table Of Content
 - [Project Overview](#project-overview)
 - [Rationale for the Project](#rationale-for-the-project)
